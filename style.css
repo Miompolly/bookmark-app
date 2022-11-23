@@ -1,0 +1,49 @@
+#myForm{
+background-color: rgb(235, 228, 228);
+display: grid;
+/* line-height: 20px; */
+grid-template-columns: 1fr;
+padding:20px 10px;
+width: 580px;
+}
+input,textarea{
+    height: 30px;
+    width: 300px;
+   
+
+
+}
+.form-group{
+    padding: 5px;
+ margin-left: 100px;
+}
+
+
+
+.done {
+  background-color: aliceblue;
+
+width: 600px;
+
+}
+.table{
+    width: 600px;
+    background-color: yellow;
+}
+.table th{
+    width: 100px;
+    padding-left: 20px;
+    text-align: left;
+    
+  
+}
+button{
+    width: 200px;
+    margin-left: 150px;
+}
+.hed{
+    background-color: aliceblue;
+  
+  width: 600px;
+  
+  }
