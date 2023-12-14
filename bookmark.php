@@ -65,7 +65,7 @@
             </div>
 
             <hr>
-
+            <p class="mt-3">Logout <a href="index.php">Log out</a></p>
         </div> 
 
     </main>
